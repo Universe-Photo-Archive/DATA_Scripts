@@ -1,3 +1,5 @@
+[Français](README_FR.md) | English
+
 # DATA Scripts
 Recovery and/or processing of astrophotography data.
 
