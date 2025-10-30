@@ -1,3 +1,5 @@
+Français | [English](README.md)
+
 # Scripts DATA
 Récupération et/ou traitement des données d'astrophotographie.
 
