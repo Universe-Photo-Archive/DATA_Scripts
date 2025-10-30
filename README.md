@@ -9,3 +9,9 @@ Recovery and/or processing of astrophotography data.
 - You need to install Python and the h5py, numpy, matplotlib and tkinter libraries
 - On line 26, enter the name of the h5 file you want to use
 - Put the Python script in the same folder as the h5 file and run it from there
+
+## Creating a timelapse with photos from the GOES-18 or GOES-19 satellite
+
+- Download the Timelapse-GOES.ps1 script and place it in the folder of your choice.
+- Right-click on the file and click on “Run with PowerShell.”
+- The script will guide you step by step through its use.
