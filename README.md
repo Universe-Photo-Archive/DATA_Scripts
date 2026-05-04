@@ -17,3 +17,9 @@ Recovery and/or processing of astrophotography data.
 - Download the Timelapse-GOES.ps1 script and place it in the folder of your choice.
 - Right-click on the file and click on “Run with PowerShell.”
 - The script will guide you step by step through its use.
+
+## Download photos from a Piwigo gallery
+
+- Download the Download_Album_From_Piwigo.ps1 script and place it in the folder of your choice.
+- Right-click on the file and click on “Run with PowerShell.”
+- The script will guide you step by step through its use.
