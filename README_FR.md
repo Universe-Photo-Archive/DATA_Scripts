@@ -17,3 +17,9 @@ Récupération et/ou traitement des données d'astrophotographie.
 - Téléchargez le script Timelapse-GOES.ps1 et placez-le dans le dossier de votre choix.
 - Faites un clic-droit sur le fichier puis cliquez sur "Exécuter avec PowedrShell"
 - Le script vous guide étape par étape dans son utilisation.
+
+## Téléchargement des photos d'un album Piwigo
+
+- Téléchargez le script Download_Album_From_Piwigo.ps1 et placez-le dans le dossier de votre choix.
+- Faites un clic-droit sur le fichier puis cliquez sur "Exécuter avec PowedrShell"
+- Le script vous guide étape par étape dans son utilisation.
